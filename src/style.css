@@ -1,1 +1,11 @@
-/* styles go here */
+.input {
+  margin-bottom: 10px;
+}
+
+.lastInput {
+  margin-bottom: 0;
+}
+
+.group {
+  margin-bottom: 20px;
+}

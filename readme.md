@@ -1,7 +1,7 @@
 # HTML form
 Replace `<your_account>` with your Github username and copy the links to Pull Request description:
-- [DEMO LINK](https://<your_account>.github.io/layout_html-form/)
-- [TEST REPORT LINK](https://<your_account>.github.io/layout_html-form/report/html_report/)
+- [DEMO LINK](https://dimaus97.github.io/layout_html-form/)
+- [TEST REPORT LINK](https://dimaus97.github.io/layout_html-form/report/html_report/)
 
 > Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/#how-to-solve-the-layout-tasks-on-github)
 ___
@@ -19,24 +19,24 @@ Create HTML page with form. On form submit send form data to `https://mate-acade
 - Do not use tabs for indentation. Instead use 2 spaces
 - Most of the time you want each tag in new line
 - Form should have different inputs with such types:
-  - [ ] text
-  - [ ] number
-  - [ ] email
-  - [ ] checkbox
-  - [ ] radio
-  - [ ] password
-  - [ ] range
-  - [ ] time
-  - [ ] color
-  - [ ] date
+  - [x] text
+  - [x] number
+  - [x] email
+  - [x] checkbox
+  - [x] radio
+  - [x] password
+  - [x] range
+  - [x] time
+  - [x] color
+  - [x] date
 - Form should have textarea and select elements.
 - You should use each of this attribute at least once
-  - [ ] required
-  - [ ] min
-  - [ ] max
-  - [ ] minlength
-  - [ ] maxlength
-  - [ ] multiple
+  - [x] required
+  - [x] min
+  - [x] max
+  - [x] minlength
+  - [x] maxlength
+  - [x] multiple
 - Age should be at least `1` and at max `100` with a default value of `12`
 - The email field should have placeholder value: `email@example.com`.
 - Text fields should have `autocomplete="off"`.
